@@ -1,10 +1,10 @@
 id = "houston"
-name = "Houston Theme"
-description = "A dark theme inspired by Astro's Houston VS Code theme, featuring cool blues, minty greens, and soft purples"
+name = "Houston"
+description = "A dark theme inspired by Astro's Houston VS Code theme"
 version = "1.0.0"
 schema_version = 1
-authors = ["Converted from Astro Houston VS Code theme"]
-repository = "https://github.com/your-username/zed-houston-theme"
+authors = ["Sami Baadarani"]
+repository = "https://github.com/sami-baadarani/zed-houston-theme"
 
 [themes]
 houston = "themes/houston.json"
